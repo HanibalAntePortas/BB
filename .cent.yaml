@@ -8,7 +8,6 @@ exclude-files:
   - .pre-commit-config.yaml
   - LICENSE
 community-templates:
- - https://github.com/kljunowsky/nuclei-templates
  - https://github.com/projectdiscovery/nuclei-templates
  - https://github.com/optiv/mobile-nuclei-templates
  - https://github.com/emadshanab/Nuclei-Templates-Collection
